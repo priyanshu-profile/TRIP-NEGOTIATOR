@@ -3,11 +3,12 @@
 This repository contains the dataset and code for our paper titled [TRIP NEGOTIATOR: A Travel Persona-aware Reinforced Dialogue Generation Model for Personalized Integrative Negotiation in Tourism](https://2024.emnlp.org/program/accepted_findings/)
 
 ## Code
-The folder TRIP_NEGOTIATOR contains contains the code for the proposed TRIP NEGOTIATOR architecture.
+The folder TRIP-NEGOTIATOR contains contains the code for the proposed TRIP NEGOTIATOR architecture.
 
 ## DEAL Dataset Request Access
 
-To request access to the DEAL dataset, fill out the agreement form linked here.
+The sample dataset can be found in sample_dataset.csv. 
+To request full access to the DEAL dataset, fill out the agreement form linked here.
 
 ## Citations
 
