@@ -8,7 +8,7 @@ The folder TRIP-NEGOTIATOR contains the code for the proposed TRIP NEGOTIATOR ar
 ## DEAL Dataset Request Access
 
 The sample dataset can be found in sample_dataset.csv. 
-To request full access to the DEAL dataset, fill out the agreement form [linked here](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
+To request full access to the DEAL dataset, fill out the agreement form [linked here](https://docs.google.com/forms/d/e/1FAIpQLSc5VYweLyzOD-ducHJquTSG5p2xkPEo8g1-2HxAIslczDmanA/viewform)
 
 ## Citations
 
